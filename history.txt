@@ -359,3 +359,22 @@
   359  history
   360  clear
   361  history > history.txt
+  362  ls
+  363  git status
+  364  git add history.txt 
+  365  git status
+  366  clear
+  367  git commit -m "Created linux command history file"
+  368  git push -u origin master
+  369  git remote set-url origin https://github.com/kipkurui/Introduction-to-Linux.git
+  370  git  clear
+  371  ls
+  372  git status
+  373  git push -u origin master
+  374  ls
+  375  cd ..
+  376  ls
+  377  cd Introduction-to-Linux/
+  378  ls
+  379  tail history.txt 
+  380  history > history.txt 
